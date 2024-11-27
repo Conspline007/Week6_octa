@@ -22,7 +22,7 @@ int main()
 	}
 	s1[i]='\0';
 
-	printf("!st string now : %s",s1); 
+	printf("1st string now : %s",s1); 
 
 	return 0;
 }
