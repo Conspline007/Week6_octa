@@ -2,7 +2,8 @@
 #include <string.h>
 int main()
 {
-    int s1_len,s2_len,i=0;
+    printf("1st string is the destination, 2nd string is the source \n");
+	int s1_len,s2_len,i=0;
 	printf("Enter length of 1st string: "); scanf ("%d",&s1_len);
 	printf("Enter length of 2nd string: "); scanf ("%d",&s2_len);
 	char s1[s1_len+1],s2[s2_len+1];
